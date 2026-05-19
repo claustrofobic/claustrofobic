@@ -1,17 +1,16 @@
 <div align="center">
 
-```
- ██████╗██╗      █████╗ ██╗   ██╗██████╗ ██╗ █████╗
-██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██║██╔══██╗
-██║     ██║     ███████║██║   ██║██║  ██║██║███████║
-██║     ██║     ██╔══██║██║   ██║██║  ██║██║██╔══██║
-╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝██║██║  ██║
- ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:1a8fa8,100:0d4f7c&height=220&section=header&text=claustrofobic&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Espa%C3%B1a&descAlignY=60&descSize=17&descColor=d0f0ff&animation=fadeIn)
 
-**Full Stack Developer · Spain **
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=0d6fa8&center=true&vCenter=true&width=520&lines=PHP+%7C+JavaScript+%7C+Java;Laravel+%7C+React+%7C+MySQL;WordPress+%7C+Divi+%7C+CSS;Building+things+that+work.+🌊)](https://github.com/claustrofobic)
 
-*Building things that work, and sometimes things that look good too.*
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a8fa8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Currículum](https://img.shields.io/badge/Curr%C3%ADculum-4fc3f7?style=for-the-badge&logo=read-the-docs&logoColor=0a2a4a)](TU_URL_CV)
+[![Email](https://img.shields.io/badge/Email-0d6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
 
 </div>
 
@@ -19,25 +18,11 @@
 
 ## Stack
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![My Skills](https://skillicons.dev/icons?i=php,js,java,html,css,react,laravel,mysql,wordpress,git,vscode&theme=light&perline=6)](https://skillicons.dev)
 
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**CMS & herramientas**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
@@ -45,8 +30,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=claustrofobic&show_icons=true&theme=transparent&hide_border=true&title_color=f7c948&icon_color=f7c948&text_color=cccccc&bg_color=0d1117&rank_icon=github&hide=stars" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claustrofobic&layout=compact&theme=transparent&hide_border=true&title_color=f7c948&text_color=cccccc&bg_color=0d1117&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=claustrofobic&theme=default&hide_border=true&stroke=4fc3f7&ring=1a8fa8&fire=00b4d8&currStreakLabel=0d6fa8&sideLabels=1a8fa8&dates=7ecfdf&sideNums=0d6fa8&currStreakNum=0d6fa8)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claustrofobic&show_icons=true&hide_border=true&title_color=0d6fa8&icon_color=1a8fa8&text_color=1a6b8a&bg_color=f0faff&rank_icon=percentile&include_all_commits=true&count_private=true)](https://github.com/claustrofobic)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claustrofobic&layout=compact&hide_border=true&title_color=0d6fa8&text_color=1a6b8a&bg_color=f0faff&langs_count=6)](https://github.com/claustrofobic)
 
 </div>
 
@@ -54,7 +46,14 @@
 
 ## Actualmente
 
-- 🔨 &nbsp; Desarrollando proyectos web full stack
-- 📐 &nbsp; Metida en CSS más de lo que debería
+```
+〰  Desarrollando proyectos web full stack
+〰  Metida en CSS más de lo que debería
+〰  España
+```
 
----
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d4f7c,50:1a8fa8,100:4fc3f7&height=120&section=footer)
+
+</div>
