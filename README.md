@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a8fa8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Currículum](https://img.shields.io/badge/Curr%C3%ADculum-4fc3f7?style=for-the-badge&logo=read-the-docs&logoColor=0a2a4a)](TU_URL_CV)
-[![Email](https://img.shields.io/badge/Email-0d6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a8fa8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#)
+[![Currículum](https://img.shields.io/badge/Curr%C3%ADculum-4fc3f7?style=for-the-badge&logo=read-the-docs&logoColor=0a2a4a)](#)
+[![Email](https://img.shields.io/badge/Email-0d6fa8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
 
 </div>
 
