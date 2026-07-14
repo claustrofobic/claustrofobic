@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FFE93B&center=true&vCenter=true&width=600&lines=comi%C3%A9ndome+bugs+desde+2024;PHP+%7C+JS+%7C+Java+%7C;React+%7C+Docker+%7C+SQL+%7C+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FFE93B&center=true&vCenter=true&width=600&lines=comi%C3%A9ndome+bugs+desde+2024;PHP+%7C+JS+%7C+Java;React+%7C+Docker+%7C+SQL+%7C+Laravel" alt="Typing SVG" />
 </h3>
 
 <br>
@@ -19,10 +19,10 @@ idiomas: Español, Inglés, Chino
 
 ```
 
-- 🎓 Titulada en **Desarrollo de Aplicaciones Web**, con prácticas en agencias de desarrollo web y soluciones empresariales.
-- 🧩 Me muevo cómoda tanto maquetando en **WordPress/Divi** como programando lógica en **PHP, Java o JavaScript**.
-- 🐳 Actualmente ampliando conocimientos en **Spring Boot, Docker, React y buenas prácticas DevOps**.
-- 🚗 Carné B + vehículo propio, aprendizaje rápido y buena actitud de equipo.
+- Titulada en **Desarrollo de Aplicaciones Web**, con prácticas en agencias de desarrollo web y soluciones empresariales.
+- Me muevo cómoda tanto maquetando en **WordPress/Divi** como programando lógica en **PHP, Java o JavaScript**.
+- Actualmente ampliando conocimientos en **Spring Boot, Docker, React y buenas prácticas DevOps**.
+- Carné B + vehículo propio, aprendizaje rápido y buena actitud de equipo.
 
 <br>
 
@@ -82,7 +82,5 @@ idiomas: Español, Inglés, Chino
       GAME  OVER? NEVER.
       
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
