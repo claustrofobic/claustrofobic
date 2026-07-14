@@ -72,15 +72,3 @@ idiomas: Español, Inglés, Chino
 <a href="https://linkedin.com/in/claudia-moraga-cruz-1173a6355"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FFE93B" /></a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-```
- ᗧ···················· 🍒
-      GAME  OVER? NEVER.
-      
-```
-
-</div>
