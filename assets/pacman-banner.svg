@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05050f"/>
+      <stop offset="100%" stop-color="#0d0d24"/>
+    </linearGradient>
+    <style>
+      .wall { stroke:#2121de; stroke-width:6; fill:none; stroke-linecap:round; }
+      .dot { fill:#ffd94a; }
+      .title { font-family:'Courier New', monospace; font-weight:700; fill:#ffd94a; letter-spacing:4px; }
+      .subtitle { font-family:'Courier New', monospace; fill:#e8e8e8; letter-spacing:2px; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- maze walls, top -->
+  <path class="wall" d="M20,30 H180 V60 H260"/>
+  <path class="wall" d="M300,20 V50 H420 V80"/>
+  <path class="wall" d="M460,30 H620"/>
+  <path class="wall" d="M20,230 H160 V200 H240"/>
+  <path class="wall" d="M280,240 V210 H400"/>
+
+  <!-- dots trail Pac-Man will "eat" -->
+  <g id="dots">
+    <circle class="dot" cx="90" cy="130" r="5"/>
+    <circle class="dot" cx="130" cy="130" r="5"/>
+    <circle class="dot" cx="170" cy="130" r="5"/>
+    <circle class="dot" cx="210" cy="130" r="5"/>
+    <circle class="dot" cx="250" cy="130" r="5"/>
+    <circle class="dot" cx="290" cy="130" r="7" fill="#ff5a5a"/>
+    <circle class="dot" cx="330" cy="130" r="5"/>
+    <circle class="dot" cx="370" cy="130" r="5"/>
+  </g>
+
+  <!-- ghosts, background, drifting -->
+  <g opacity="0.85">
+    <g transform="translate(1000,150)">
+      <path d="M0,25 a25,25 0 1,1 50,0 v20 l-8,-8 -9,8 -8,-8 -9,8 -8,-8 -8,8 Z" fill="#ff5a5a"/>
+      <circle cx="15" cy="20" r="5" fill="white"/><circle cx="35" cy="20" r="5" fill="white"/>
+      <circle cx="16" cy="21" r="2.5" fill="#1a1a2e"/><circle cx="36" cy="21" r="2.5" fill="#1a1a2e"/>
+      <animateTransform attributeName="transform" type="translate" values="1000,150; 985,150; 1000,150" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1080,160)">
+      <path d="M0,25 a25,25 0 1,1 50,0 v20 l-8,-8 -9,8 -8,-8 -9,8 -8,-8 -8,8 Z" fill="#4adeff"/>
+      <circle cx="15" cy="20" r="5" fill="white"/><circle cx="35" cy="20" r="5" fill="white"/>
+      <circle cx="16" cy="21" r="2.5" fill="#1a1a2e"/><circle cx="36" cy="21" r="2.5" fill="#1a1a2e"/>
+      <animateTransform attributeName="transform" type="translate" values="1080,160; 1095,160; 1080,160" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Pac-Man eating the dots along the trail -->
+  <g>
+    <path fill="#ffd94a">
+      <animate attributeName="d" dur="0.35s" repeatCount="indefinite"
+        values="
+          M60,130 A30,30 0 1,0 60,129.9 L90,130 Z;
+          M60,130 L88,112 A30,30 0 1,0 88,148 Z;
+          M60,130 A30,30 0 1,0 60,129.9 L90,130 Z"/>
+    </path>
+    <animateMotion path="M0,0 L340,0" dur="3.2s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- text -->
+  <text x="60" y="205" class="title" font-size="42">CLAUDIA MORAGA</text>
+  <text x="63" y="232" class="subtitle" font-size="17">&gt; Desarrolladora Web Junior_</text>
+</svg>
